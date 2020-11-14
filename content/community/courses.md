@@ -8,7 +8,7 @@ permalink: community/courses.html
 
 ## Free Courses {#free-courses}
 
-- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit/) - A free, 5-part video course with interactive code examples that will help you learn React.
+- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit) - A free, 5-part video course with interactive code examples that will help you learn React.
 
 - [Codecademy: React 101](https://www.codecademy.com/learn/react-101) - Codecademy's introductory course for React.
 
@@ -48,4 +48,8 @@ permalink: community/courses.html
 
 - [Mastering React](https://codewithmosh.com/p/mastering-react/) - Build professional interactive apps with React.
 
+- [React Tutorial](https://react-tutorial.app) - Learn React step by step in an interactive environment with flashcards.
+
 - [Road to React](https://www.roadtoreact.com/) - Your journey to master React in JavaScript.
+
+- [Epic React](https://epicreact.dev/) - Confidently Ship Well-Architected Production Ready React Apps Like a Pro

@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2013-present, Facebook, Inc.
+ * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * @emails react-core
  * @flow
@@ -44,7 +44,6 @@ class DocSearch extends Component<{}, State> {
           alignItems: 'center',
           paddingLeft: '0.25rem',
           paddingRight: '0.25rem',
-
           [media.lessThan('expandedSearch')]: {
             justifyContent: 'flex-end',
           },
@@ -58,6 +57,7 @@ class DocSearch extends Component<{}, State> {
           // },
           [media.greaterThan('expandedSearch')]: {
             minWidth: 100,
+            width: 'calc(100% / 5)',
           },
         }}>
         <input
